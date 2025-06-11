@@ -16,7 +16,7 @@ timezone:
 
 title: JIJAH # the main title
 
-tagline: My name: Azizah Nurul Izzah, my NIM: H071241029. # it will display as the subtitle
+tagline: My name: Azizah Nurul Izzah, and my NIM: H071241029. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
